@@ -1,0 +1,11 @@
+@import "~styles/helpers/_module";
+
+:host {
+
+
+	.formgroup {
+		&__button {
+            background-color: #1e2d7d !important;
+		}
+	}
+}
