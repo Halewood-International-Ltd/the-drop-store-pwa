@@ -34,9 +34,11 @@
 					}
 					.selling-price {
 						padding-right: 14px;
+						font-weight: 800 !important;
+						font-size: 22px !important;
 					}
 					.regular-price {
-						color: #00badb;
+						color: #ffffff;
 					}
 					.selling-price,
 					.regular-price {
@@ -57,13 +59,14 @@
                     .link-text,
                     .content-subheadline,
                     .article-subheadline {
-                        color:$black !important;
+                        color:#333333 !important;
 					}
 					.link-text {
 						&:hover {
-							background-color: $black !important;
-							color:$white !important;
-							@include transition(0.3s);
+							background-color: #333333 !important;
+							color:#fff !important;
+							transition: 0.3s;
+							-webkit-transition: 0.3s;
 						}
 					}
                 }

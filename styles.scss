@@ -14,7 +14,8 @@ html {
 }
 
 html, body {
-	font-family: $base-font-family;
+	//font-family: $base-font-family;
+	font-family: 'Quicksand', sans-serif;
 	color: $upscale-grey2;
 	//background-color: $upscale-grey9;
 	background-color: #fff;
@@ -58,7 +59,7 @@ h1, h2, h3, h4 {
 }
 
 p, a {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Quicksand', sans-serif;
 }
 
 button {

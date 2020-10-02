@@ -56,9 +56,7 @@ $space-between: 14px;
 				outline: 0;
 				height: 100%;
 				a {
-					//@include button($background-color: black, $border-radius: 2px);
-					//background-color: #1e2d7d;
-					font-size: 12px;
+					font-size: 14px;
 					font-weight: 400;
 					padding: 10px $space-between;
 					text-decoration: unset;
@@ -70,7 +68,7 @@ $space-between: 14px;
 					display: flex;
 					letter-spacing: 0;
 					background-color: transparent;
-					font-family: 'Montserrat', sans-serif;
+					font-family: 'Quicksand', sans-serif;
 					&:hover {
 						background-color: #fff;
 						color: #1e2d7d;
