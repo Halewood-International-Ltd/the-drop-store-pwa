@@ -207,9 +207,9 @@ $row-height: 54px;
 .main-navigation-container {
 	position: relative;
 	z-index:99;
-	height:50px;
 	.main-navigation-bar {
 		width: 100%;
+		height:50px;
 		background-color: #1e2d7d;
 		position: sticky;
 		top:0;
