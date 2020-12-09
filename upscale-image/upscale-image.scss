@@ -24,10 +24,3 @@ $large-spacing: 48px;
 		}
 	}
 }
-
-@media screen and (max-width: 800px) {
-	.image-content {
-		width: calc(100% + 40px);
-		margin-left: -20px;
-	}
-}

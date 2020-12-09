@@ -192,21 +192,13 @@
 					.social-media {
 						margin-bottom: 20px;
 						img {
-							&.social {
-								&.last {
-									margin-right: 20px;
-								}
-							}
+							margin: 0 10px !important;
 						}
 					}
 					.payment-providers {
 						border-left: none;
 						img {
-							&.payment {
-								&.first {
-									margin-left: 20px;
-								}
-							}
+							margin: 0 10px !important;
 						}
 					}
 				}
